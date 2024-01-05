@@ -35,6 +35,7 @@
 }
 .home .main-app .main-header .user-info li:not(:first-child) {
   display: none;
+  cursor: pointer;
 }
 .home .main-app .main-header .user-info li:not(:first-child):hover {
   background-color: #999;

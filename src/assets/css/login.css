@@ -1,0 +1,6 @@
+.login_box .login_form {
+  max-width: 500px;
+  margin: 100px auto;
+  border: 1px solid #00f;
+  padding: 70px 100px;
+}
